@@ -2,25 +2,25 @@
   "logo": "/images/logo.svg",
   "items": [
     {
-      "text": "Home",
+      "text": "Inicio",
       "link": "/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "Features",
+      "text": "Nosotros",
       "link": "/features/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "Pricing",
+      "text": "Productos",
       "link": "/pricing/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "About",
+      "text": "Servicios",
       "link": "/about/",
       "enable_dropdown": false,
       "dropdown": []
